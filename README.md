@@ -1,5 +1,13 @@
 # Geospatial Data Handling
 
+
+
+> [!NOTE]
+> This repository holds the completed result of my project but the source code.
+> I cannot post the source code publicly here to avoid plagiarism, so I put it in another private repository. Although, I can show it upon request.
+
+
+
 1. You need to create (generate) longitude,latitude pairs (ie. spatial coordinates) for 12 locations on the USC campus, in addition to where your home/apartment/dorm room is.
 The 12, other than your home, would have to be spread out - use your judgment, try to span the campus area, choose locations inside or outside, nearby - we don't want to cover a 'huge' region, or at the other extreme, have the points be 'too close'.
 **The 12 'campus' points do need to be as follows: 3 libraries, 3 restaurants/coffee places, 3 waterworks (eg. fountains), 3 department buidings :) Have fun, walking around and sampling these locations!
